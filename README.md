@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AceJHamilton
+- 👀 I’m interested in getting a Linux SysAdmin certification
+- 🌱 I’m currently learning python and Javascript
